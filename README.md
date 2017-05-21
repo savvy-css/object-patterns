@@ -1,5 +1,7 @@
 # Savvy CSS Object Patterns
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/savvy-css/object-patterns.svg)](https://greenkeeper.io/)
+
 The full collection of Savvy CSS object pattern packages.
 
 Read more about [Savvy CSS's design principles](https://github.com/savvy-css/savvy/doc).
