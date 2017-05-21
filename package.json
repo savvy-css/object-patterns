@@ -1,0 +1,28 @@
+{
+  "name": "@savvy-css/object-patterns",
+  "version": "0.0.0",
+  "description": "A collection of object pattern-class packages for Savvy CSS",
+  "main": "index.css",
+  "keywords": [
+    "savvy-css",
+    "savvy-css-package",
+    "savvy-css-object-patterns",
+    "css object patterns"    
+  ],
+  "repository": "git@github.com:savvy-css/object-patterns.git",
+  "author": "Brian Sipple",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "nsp check",
+    "release": "np"
+  },  
+  "devDependencies": {
+    "del-cli": "^1.0.0",
+    "np": "^2.15.0",
+    "nsp": "^2.6.3",
+    "postcss-cli": "^4.0.0",
+    "postcss-cssnext": "^2.11.0",
+    "postcss-import": "^10.0.0",
+    "postcss-reporter": "^3.0.0"
+  }
+}
