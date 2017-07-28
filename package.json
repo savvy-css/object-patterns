@@ -24,12 +24,12 @@
     "transform:watch": "postcss index.css -o build/object-patterns.css --config postcss.config.js -w",
     "build": "npm run clean && npm run setup && npm run transform",
     "build:dist": "npm run clean && npm run setup && npm run transform:minify",
-    "prepublish": "nsp check && npm run clean && npm run setup && npm run build:dist",
+    "prepublishOnly": "nsp check && npm run clean && npm run setup && npm run build:dist",
     "deploy": "np"
   },
   "devDependencies": {
     "@savvy-css/box-object-patterns": "^0.0.1",
-    "@savvy-css/grid-object-patterns": "^0.0.1",
+    "@savvy-css/grid-object-patterns": "^0.2.0",
     "@savvy-css/tap-target-object-patterns": "^0.0.1",
     "cssnano": "^3.10.0",
     "del-cli": "^1.0.0",

@@ -6,9 +6,9 @@
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@savvy-css/box-object-patterns/-/box-object-patterns-0.0.1.tgz#e36a8409f6c5a0b450f9252acb2c89438ac342c8"
 
-"@savvy-css/grid-object-patterns@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@savvy-css/grid-object-patterns/-/grid-object-patterns-0.0.1.tgz#fd3066c2af56dbd627d6a6169cdccbefd81c8b31"
+"@savvy-css/grid-object-patterns@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@savvy-css/grid-object-patterns/-/grid-object-patterns-0.2.0.tgz#437fdfb91b5b340f5c6c6f032821264cc52ef6b2"
 
 "@savvy-css/tap-target-object-patterns@^0.0.1":
   version "0.0.1"
