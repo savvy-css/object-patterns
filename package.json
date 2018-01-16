@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@savvy-css/box-object-patterns": "^0.0.1",
-    "@savvy-css/grid-object-patterns": "^0.2.0",
+    "@savvy-css/grid-object-patterns": "^0.2.2",
     "@savvy-css/tap-target-object-patterns": "^0.0.1",
     "cssnano": "^3.10.0",
     "del-cli": "^1.0.0",
