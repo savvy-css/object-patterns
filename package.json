@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/object-patterns",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of object pattern-class packages for Savvy CSS",
   "main": "build/object-patterns.css",
   "style": "build/object-patterns.css",
